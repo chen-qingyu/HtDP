@@ -6,4 +6,4 @@
                  "_"
                  (substring s i)))
  
-(string-insert "helloworld" 6); => "hellow_orld"
+(string-insert "helloworld" 5) ; => "hello_world"
